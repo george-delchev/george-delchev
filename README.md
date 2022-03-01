@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm George Delchev</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 📫 How to reach me **george.delchev044@gmail.com**1
+- 📫 How to reach me **george.delchev044@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
